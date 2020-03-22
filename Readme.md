@@ -1,2 +1,2 @@
 # SvelteNativeAPI
- Native Svelte NewsAPI
+ Svelte Native NewsAPI
